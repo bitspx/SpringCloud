@@ -1,3 +1,9 @@
+# maven or eclipse genereated 
+target/
+bin/
+.settings/
+.classpath
+
 # Compiled class file
 *.class
 
