@@ -22,7 +22,7 @@ import com.example.util.SwiftNumberGenerator;
 /**
  * 只是作为技术代码示例，业务逻辑不是完整的。
  * 
- * @author Bairong
+ * @author puxuan.song
  * @version 1.0 
  * @date 2019年9月11日 上午9:59:17
  * @since 1.0	

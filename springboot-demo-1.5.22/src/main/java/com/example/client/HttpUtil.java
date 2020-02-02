@@ -31,7 +31,7 @@ import com.example.util.PropertiesUtil;
 /**
  * class description
  * 
- * @author Bairong
+ * @author puxuan.song
  * @version 1.0 
  * @date 2019年9月9日 下午9:44:09
  * @since 1.0	

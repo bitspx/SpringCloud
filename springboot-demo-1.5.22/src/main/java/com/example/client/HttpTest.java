@@ -14,7 +14,7 @@ import com.example.util.PropertiesUtil;
 /**
  * class description
  * 
- * @author Bairong
+ * @author puxuan.song
  * @version 1.0 
  * @date 2019年9月10日 上午10:06:51
  * @since 1.0	

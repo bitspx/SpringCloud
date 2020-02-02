@@ -12,7 +12,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * Apply Loan Service.
  * 
- * @author Bairong
+ * @author puxuan.song
  * @version 1.0 
  * @date 2019年9月19日 下午1:49:40
  * @since 1.0	

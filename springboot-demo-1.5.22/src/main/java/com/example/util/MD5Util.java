@@ -13,7 +13,7 @@ import org.apache.commons.codec.binary.Hex;
 /**
  * class description
  * 
- * @author Bairong
+ * @author puxuan.song
  * @version 1.0 
  * @date 2019年9月10日 下午1:35:45
  * @since 1.0	
